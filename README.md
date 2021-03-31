@@ -1,6 +1,10 @@
 Tableau 2020 A-ZHands-On Tableau Training For Data Science! : https://www.udemy.com/share/101Wbs/
 
+Learn Tableau 2020 for data science step by step. Real-life data analytics exercises & quizzes included. Learn by doing!
+
 & Tableau 10 Advanced Training Master Tableau in Data Science : https://www.udemy.com/share/1013Do/
+
+Master Tableau 20 in Data Science by solving Real-Life Analytics Problems. Learn Visualisation and Data Mining by doing!
 
 Tableau Profile : https://public.tableau.com/profile/devesh5578#!/
 
