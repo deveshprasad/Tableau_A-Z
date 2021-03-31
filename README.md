@@ -1,5 +1,6 @@
-Tableau 2020 A-ZHands-On Tableau Training For Data Science! 
-& Tableau 10 Advanced Training Master Tableau in Data Science
+Tableau 2020 A-ZHands-On Tableau Training For Data Science! : https://www.udemy.com/share/101Wbs/
+
+& Tableau 10 Advanced Training Master Tableau in Data Science : https://www.udemy.com/share/1013Do/
 
 Tableau Profile : https://public.tableau.com/profile/devesh5578#!/
 
